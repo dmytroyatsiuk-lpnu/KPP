@@ -9,15 +9,63 @@ public class Main {
 
     public static void main(String[] args) {
         List<Order> orders = new ArrayList<>();
-        String[] names = {"Oleksandr", "Dmytro", "Oleksiy", "Davide", "Oleg", "Stanislav", "Denys"};
-        String[] paymentMethods = {"Card", "Cash"};
-        for (int i = 0; i < names.length; i++) {
-            orders.add(formOrder(String.valueOf(i + 1),
-                    (int) (Math.random() * 5 + 1),
-                    names[i],
-                    paymentMethods[(int) (Math.random() * 2)]));
+//        String[] names = {"Oleksandr", "Dmytro", "Oleksiy", "Davide", "Oleg", "Stanislav", "Denys"};
+//        String[] paymentMethods = {"Card", "Cash"};
+//        for (int i = 0; i < names.length; i++) {
+//            orders.add(formOrder(String.valueOf(i + 1),
+//                    (int) (Math.random() * 5 + 1),
+//                    names[i],
+//                    paymentMethods[(int) (Math.random() * 2)]));
+//        }
+
+        List<Product> prods1 = new ArrayList<>();
+        prods1.add(new Product("TV", 1, 500.0));
+        prods1.add(new Product("Headphones", 2, 20));
+        orders.add(new Order("1", "Oleksandr", prods1, "Cash"));
+
+
+        List<Product> prods2 = new ArrayList<>();
+        prods2.add(new Product("Laptop", 1, 1000.0));
+        prods2.add(new Product("Mouse", 3, 25));
+        orders.add(new Order("2", "Dmytro", prods2, "Card"));
+
+
+        List<Product> prods3 = new ArrayList<>();
+        prods3.add(new Product("Laptop", 1, 1000.0));
+        orders.add(new Order("3", "Davide", prods3, "Card"));
+
+
+        System.out.println(ANSI_RED + "Additional task (with stream api)" + ANSI_RESET);
+        List<Order> intersection = new ArrayList<>(orders.stream()
+                .filter(order -> orders.stream()
+                        .anyMatch(otherOrder -> !order.equals(otherOrder) && order.products().stream()
+                                .anyMatch(product -> otherOrder.products().stream()
+                                        .anyMatch(otherProduct -> product.productName().equals(otherProduct.productName())))))
+                .toList());
+        System.out.println(intersection);
+        System.out.println(ANSI_RED + "Additional task (without stream api)" + ANSI_RESET);
+
+        intersection.clear();
+
+        for (int i = 0; i < orders.size(); i++) {
+            Order order = orders.get(i);
+            for (Order otherOrder : orders) {
+
+                if (!order.equals(otherOrder)) {
+
+                    for (Product product : order.products()) {
+                        for (Product otherProduct : otherOrder.products()) {
+                            if (product.productName().equals(otherProduct.productName())) {
+                                intersection.add(order);
+                                break;
+                            }
+                        }
+                    }
+                }
+            }
         }
 
+        System.out.println(intersection);
         //1. Розділити замовлення на дві колекції: картка та готівка---------------------------------
         //Stream API
         List<Order> cardOrders = orders.stream()
@@ -155,7 +203,6 @@ public class Main {
                 order -> System.out.println(ANSI_RED + "Максимальне замовлення (without stream API):\n" + ANSI_RESET + order),
                 () -> System.out.println(ANSI_RED + "Немає замовлень." + ANSI_RESET)
         );
-
     }
 
 
@@ -164,19 +211,19 @@ public class Main {
 
 
 
-    public static Order formOrder(String orderNumber, int productsAmount, String customerName, String paymentMethod) {
-        String[] productNames = {
-                "TV",
-                "Smartphone",
-                "Laptop",
-                "Headphones",
-                "Computer mouse",
-        };
-        double[] productPrices = {500, 300, 800, 100, 20};
-        List<Product> products = new ArrayList<>();
-        for (int i = 0; i < productsAmount; i++) {
-            products.add(new Product(productNames[i], (int) (Math.random() * 5 + 1), productPrices[i]));
-        }
-        return new Order(orderNumber, customerName, products, paymentMethod);
-    }
+//    public static Order formOrder(String orderNumber, int productsAmount, String customerName, String paymentMethod) {
+//        String[] productNames = {
+//                "TV",
+//                "Smartphone",
+//                "Laptop",
+//                "Headphones",
+//                "Computer mouse",
+//        };
+//        double[] productPrices = {500, 300, 800, 100, 20};
+//        List<Product> products = new ArrayList<>();
+//        for (int i = 0; i < productsAmount; i++) {
+//            products.add(new Product(productNames[i], (int) (Math.random() * 5 + 1), productPrices[i]));
+//        }
+//        return new Order(orderNumber, customerName, products, paymentMethod);
+//    }
 }
