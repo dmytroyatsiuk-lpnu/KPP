@@ -1,0 +1,4056 @@
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 942
+Processing Time: 298 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 891
+Processing Time: 298 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 1380
+Processing Time: 262 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 1364
+Processing Time: 262 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 234 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 1660
+Processing Time: 285 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 1268
+Processing Time: 246 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 226 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 1645
+Processing Time: 239 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 223 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 220 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 1236
+Processing Time: 339 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 351
+Processing Time: 230 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 369
+Processing Time: 236 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 352
+Processing Time: 232 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 323
+Processing Time: 229 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 339
+Processing Time: 225 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 346
+Processing Time: 225 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 339
+Processing Time: 228 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 330
+Processing Time: 224 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 321
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 392
+Processing Time: 223 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 312
+Processing Time: 222 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 352
+Processing Time: 224 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 224 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 338
+Processing Time: 224 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 328
+Processing Time: 224 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 321
+Processing Time: 226 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 321
+Processing Time: 225 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 338
+Processing Time: 224 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 225 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 359
+Processing Time: 222 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 346
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 348
+Processing Time: 221 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 354
+Processing Time: 226 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 329
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 329
+Processing Time: 225 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 224 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 307
+Processing Time: 226 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 327
+Processing Time: 222 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 348
+Processing Time: 234 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 357
+Processing Time: 226 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 331
+Processing Time: 234 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 318
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 356
+Processing Time: 232 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 346
+Processing Time: 229 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 237 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 227 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 330
+Processing Time: 220 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 219 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 318
+Processing Time: 227 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 221 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 336
+Processing Time: 221 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 339
+Processing Time: 232 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 318
+Processing Time: 222 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 350
+Processing Time: 220 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 359
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 368
+Processing Time: 224 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 330
+Processing Time: 224 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 341
+Processing Time: 225 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 221 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 357
+Processing Time: 222 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 343
+Processing Time: 224 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 343
+Processing Time: 224 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 314
+Processing Time: 226 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 224 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 321
+Processing Time: 224 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 310
+Processing Time: 221 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 358
+Processing Time: 221 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 311
+Processing Time: 225 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 336
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 339
+Processing Time: 220 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 345
+Processing Time: 218 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 354
+Processing Time: 225 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 223 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 335
+Processing Time: 224 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 352
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 336
+Processing Time: 227 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 320
+Processing Time: 232 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 357
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 337
+Processing Time: 226 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 322
+Processing Time: 224 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 313
+Processing Time: 226 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 343
+Processing Time: 221 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 335
+Processing Time: 221 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 371
+Processing Time: 224 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 321
+Processing Time: 221 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 331
+Processing Time: 255 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 350
+Processing Time: 295 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 342
+Processing Time: 226 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 221 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 323
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 344
+Processing Time: 219 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 225 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 320
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 222 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 318
+Processing Time: 221 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 330
+Processing Time: 220 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 342
+Processing Time: 218 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 370
+Processing Time: 222 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 335
+Processing Time: 223 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 336
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 327
+Processing Time: 220 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 333
+Processing Time: 220 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 350
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 356
+Processing Time: 221 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 223 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 312
+Processing Time: 224 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 335
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 330
+Processing Time: 222 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 356
+Processing Time: 236 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 354
+Processing Time: 224 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 338
+Processing Time: 221 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 314
+Processing Time: 222 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 296
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 221 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 323
+Processing Time: 237 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 228 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 329
+Processing Time: 226 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 334
+Processing Time: 226 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 370
+Processing Time: 225 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 347
+Processing Time: 226 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 218 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 302
+Processing Time: 219 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 345
+Processing Time: 225 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 322
+Processing Time: 222 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 329
+Processing Time: 221 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 334
+Processing Time: 221 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 316
+Processing Time: 220 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 321
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 331
+Processing Time: 222 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 299
+Processing Time: 222 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 305
+Processing Time: 221 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 321
+Processing Time: 221 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 372
+Processing Time: 225 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 349
+Processing Time: 226 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 345
+Processing Time: 224 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 247 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 328
+Processing Time: 225 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 307
+Processing Time: 226 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 222 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 308
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 228 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 312
+Processing Time: 225 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 362
+Processing Time: 227 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 333
+Processing Time: 222 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 327
+Processing Time: 227 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 350
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 341
+Processing Time: 223 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 344
+Processing Time: 248 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 340
+Processing Time: 224 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 294
+Processing Time: 224 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 309
+Processing Time: 224 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 329
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 357
+Processing Time: 224 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 309
+Processing Time: 225 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 358
+Processing Time: 224 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 336
+Processing Time: 222 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 222 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 348
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 333
+Processing Time: 225 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 321
+Processing Time: 224 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 318
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 330
+Processing Time: 222 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 337
+Processing Time: 227 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 311
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 336
+Processing Time: 222 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 356
+Processing Time: 220 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 333
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 337
+Processing Time: 222 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 358
+Processing Time: 220 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 368
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 314
+Processing Time: 220 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 358
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 298
+Processing Time: 247 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 367
+Processing Time: 223 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 318
+Processing Time: 222 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 225 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 302
+Processing Time: 225 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 341
+Processing Time: 230 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 346
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 306
+Processing Time: 223 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 303
+Processing Time: 225 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 311
+Processing Time: 225 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 343
+Processing Time: 223 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 322
+Processing Time: 224 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 331
+Processing Time: 225 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 222 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 333
+Processing Time: 220 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 364
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 226 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 226 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 329
+Processing Time: 219 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 337
+Processing Time: 221 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 225 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 306
+Processing Time: 224 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 313
+Processing Time: 226 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 340
+Processing Time: 222 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 307
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 320
+Processing Time: 221 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 220 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 311
+Processing Time: 221 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 316
+Processing Time: 224 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 306
+Processing Time: 223 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 336
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 353
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 368
+Processing Time: 219 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 323
+Processing Time: 220 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 334
+Processing Time: 224 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 343
+Processing Time: 220 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 364
+Processing Time: 224 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 344
+Processing Time: 226 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 344
+Processing Time: 226 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 342
+Processing Time: 225 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 355
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 350
+Processing Time: 223 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 295
+Processing Time: 221 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 333
+Processing Time: 221 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 305
+Processing Time: 227 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 346
+Processing Time: 229 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 367
+Processing Time: 226 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 333
+Processing Time: 222 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 337
+Processing Time: 220 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 308
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 220 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 338
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 328
+Processing Time: 227 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 331
+Processing Time: 226 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 301
+Processing Time: 224 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 322
+Processing Time: 221 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 316
+Processing Time: 223 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 322
+Processing Time: 225 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 323
+Processing Time: 225 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 315
+Processing Time: 220 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 379
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 222 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 308
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 309
+Processing Time: 224 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 363
+Processing Time: 222 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 314
+Processing Time: 230 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 337
+Processing Time: 230 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 321
+Processing Time: 223 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 329
+Processing Time: 224 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 349
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 357
+Processing Time: 221 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 312
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 283
+Processing Time: 222 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 336
+Processing Time: 228 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 318
+Processing Time: 226 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 320
+Processing Time: 222 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 222 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 279
+Processing Time: 226 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 322
+Processing Time: 224 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 338
+Processing Time: 228 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 358
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 330
+Processing Time: 225 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 308
+Processing Time: 223 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 343
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 296
+Processing Time: 221 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 331
+Processing Time: 225 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 225 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 223 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 228 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 220 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 355
+Processing Time: 218 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 327
+Processing Time: 219 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 315
+Processing Time: 218 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 218 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 354
+Processing Time: 218 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 340
+Processing Time: 221 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 372
+Processing Time: 221 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 313
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 337
+Processing Time: 224 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 297
+Processing Time: 223 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 358
+Processing Time: 225 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 314
+Processing Time: 222 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 355
+Processing Time: 223 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 318
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 341
+Processing Time: 220 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 333
+Processing Time: 221 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 225 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 307
+Processing Time: 224 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 342
+Processing Time: 229 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 299
+Processing Time: 226 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 221 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 344
+Processing Time: 221 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 318
+Processing Time: 221 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 222 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 226 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 334
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 320
+Processing Time: 251 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 314
+Processing Time: 221 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 358
+Processing Time: 225 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 344
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 333
+Processing Time: 224 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 365
+Processing Time: 220 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 327
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 342
+Processing Time: 251 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 316
+Processing Time: 225 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 331
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 356
+Processing Time: 224 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 224 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 222 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 321
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 341
+Processing Time: 222 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 350
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 356
+Processing Time: 223 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 226 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 352
+Processing Time: 227 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 311
+Processing Time: 224 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 305
+Processing Time: 225 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 329
+Processing Time: 225 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 349
+Processing Time: 226 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 310
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 314
+Processing Time: 224 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 221 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 336
+Processing Time: 222 ms
+
+Thread: pool-2-thread-2
+Result: /images/KSC-logosmall.gif 309
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 312
+Processing Time: 223 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 358
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 347
+Processing Time: 224 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 310
+Processing Time: 224 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 355
+Processing Time: 222 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 330
+Processing Time: 227 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 312
+Processing Time: 227 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 317
+Processing Time: 225 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 338
+Processing Time: 226 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 334
+Processing Time: 220 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 309
+Processing Time: 220 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 302
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: обмеження 1
+Processing Time: 216 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 891
+Processing Time: 294 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 942
+Processing Time: 294 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 891
+Processing Time: 291 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 942
+Processing Time: 291 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 1364
+Processing Time: 246 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 1380
+Processing Time: 247 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 217 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 1660
+Processing Time: 254 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 1268
+Processing Time: 233 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 209 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 211 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 1645
+Processing Time: 227 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 212 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 1236
+Processing Time: 225 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 351
+Processing Time: 215 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 369
+Processing Time: 215 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 352
+Processing Time: 209 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 323
+Processing Time: 207 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 339
+Processing Time: 212 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 346
+Processing Time: 210 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 339
+Processing Time: 210 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 330
+Processing Time: 208 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 321
+Processing Time: 214 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 392
+Processing Time: 214 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 312
+Processing Time: 212 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 352
+Processing Time: 212 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 208 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 338
+Processing Time: 209 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 321
+Processing Time: 212 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 328
+Processing Time: 215 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 338
+Processing Time: 219 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 321
+Processing Time: 219 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 359
+Processing Time: 209 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 210 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 348
+Processing Time: 211 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 346
+Processing Time: 211 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 354
+Processing Time: 209 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 329
+Processing Time: 209 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 329
+Processing Time: 211 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 212 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 307
+Processing Time: 209 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 327
+Processing Time: 210 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 357
+Processing Time: 212 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 348
+Processing Time: 212 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 331
+Processing Time: 210 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 318
+Processing Time: 211 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 346
+Processing Time: 214 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 356
+Processing Time: 214 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 209 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 209 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 330
+Processing Time: 210 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 210 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 318
+Processing Time: 212 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 209 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 336
+Processing Time: 212 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 339
+Processing Time: 210 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 318
+Processing Time: 210 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 350
+Processing Time: 209 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 359
+Processing Time: 210 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 368
+Processing Time: 210 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 330
+Processing Time: 210 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 341
+Processing Time: 209 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 215 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 357
+Processing Time: 212 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 343
+Processing Time: 209 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 343
+Processing Time: 208 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 210 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 314
+Processing Time: 211 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 321
+Processing Time: 208 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 208 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 358
+Processing Time: 213 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 310
+Processing Time: 214 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 336
+Processing Time: 212 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 311
+Processing Time: 212 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 345
+Processing Time: 208 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 339
+Processing Time: 208 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 210 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 354
+Processing Time: 211 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 335
+Processing Time: 210 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 352
+Processing Time: 210 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 336
+Processing Time: 208 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 320
+Processing Time: 208 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 337
+Processing Time: 210 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 357
+Processing Time: 210 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 322
+Processing Time: 210 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 313
+Processing Time: 211 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 335
+Processing Time: 210 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 343
+Processing Time: 210 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 321
+Processing Time: 212 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 371
+Processing Time: 212 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 331
+Processing Time: 207 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 350
+Processing Time: 208 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 211 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 342
+Processing Time: 211 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 323
+Processing Time: 214 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 344
+Processing Time: 213 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 208 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 320
+Processing Time: 209 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 207 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 318
+Processing Time: 206 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 330
+Processing Time: 207 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 342
+Processing Time: 207 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 370
+Processing Time: 210 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 210 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 335
+Processing Time: 208 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 336
+Processing Time: 218 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 327
+Processing Time: 210 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 333
+Processing Time: 209 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 350
+Processing Time: 212 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 356
+Processing Time: 213 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 210 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 312
+Processing Time: 208 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 335
+Processing Time: 211 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 330
+Processing Time: 211 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 356
+Processing Time: 213 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 354
+Processing Time: 211 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 338
+Processing Time: 208 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 314
+Processing Time: 207 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 296
+Processing Time: 210 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 209 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 323
+Processing Time: 209 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 209 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 334
+Processing Time: 209 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 329
+Processing Time: 209 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 347
+Processing Time: 209 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 370
+Processing Time: 209 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 213 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 302
+Processing Time: 212 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 345
+Processing Time: 210 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 322
+Processing Time: 211 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 329
+Processing Time: 207 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 334
+Processing Time: 206 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 316
+Processing Time: 208 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 321
+Processing Time: 207 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 331
+Processing Time: 209 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 299
+Processing Time: 210 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 305
+Processing Time: 208 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 321
+Processing Time: 209 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 372
+Processing Time: 208 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 349
+Processing Time: 207 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 345
+Processing Time: 211 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 211 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 328
+Processing Time: 209 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 307
+Processing Time: 208 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 209 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 308
+Processing Time: 208 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 208 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 312
+Processing Time: 206 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 362
+Processing Time: 209 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 333
+Processing Time: 209 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 327
+Processing Time: 213 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 350
+Processing Time: 214 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 341
+Processing Time: 207 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 344
+Processing Time: 208 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 340
+Processing Time: 206 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 294
+Processing Time: 208 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 309
+Processing Time: 210 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 329
+Processing Time: 208 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 309
+Processing Time: 206 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 357
+Processing Time: 206 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 336
+Processing Time: 588 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 358
+Processing Time: 588 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 348
+Processing Time: 226 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 226 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 321
+Processing Time: 221 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 333
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 318
+Processing Time: 220 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 330
+Processing Time: 220 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 337
+Processing Time: 220 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 311
+Processing Time: 221 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 336
+Processing Time: 216 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 356
+Processing Time: 218 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 333
+Processing Time: 217 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 337
+Processing Time: 218 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 358
+Processing Time: 216 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 368
+Processing Time: 218 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 314
+Processing Time: 220 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 358
+Processing Time: 219 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 367
+Processing Time: 217 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 298
+Processing Time: 242 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 318
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 221 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 302
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 341
+Processing Time: 221 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 346
+Processing Time: 219 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 306
+Processing Time: 218 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 303
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 311
+Processing Time: 225 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 343
+Processing Time: 226 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 322
+Processing Time: 226 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 331
+Processing Time: 221 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 219 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 333
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 364
+Processing Time: 222 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 221 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 221 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 329
+Processing Time: 221 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 337
+Processing Time: 222 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 220 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 306
+Processing Time: 221 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 313
+Processing Time: 224 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 340
+Processing Time: 225 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 320
+Processing Time: 220 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 307
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 311
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 306
+Processing Time: 225 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 316
+Processing Time: 225 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 353
+Processing Time: 224 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 336
+Processing Time: 224 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 323
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 368
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 334
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 343
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 364
+Processing Time: 224 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 344
+Processing Time: 225 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 344
+Processing Time: 224 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 342
+Processing Time: 224 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 350
+Processing Time: 222 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 355
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 295
+Processing Time: 222 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 333
+Processing Time: 221 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 305
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 346
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 333
+Processing Time: 224 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 367
+Processing Time: 224 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 308
+Processing Time: 225 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 337
+Processing Time: 226 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 224 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 338
+Processing Time: 224 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 328
+Processing Time: 224 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 331
+Processing Time: 224 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 301
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 322
+Processing Time: 224 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 316
+Processing Time: 235 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 237 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 322
+Processing Time: 222 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 323
+Processing Time: 221 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 315
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 379
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 220 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 308
+Processing Time: 220 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 309
+Processing Time: 221 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 363
+Processing Time: 220 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 314
+Processing Time: 227 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 337
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 321
+Processing Time: 222 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 329
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 349
+Processing Time: 221 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 357
+Processing Time: 221 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 312
+Processing Time: 221 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 283
+Processing Time: 221 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 336
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 318
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 320
+Processing Time: 224 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 224 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 279
+Processing Time: 235 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 322
+Processing Time: 235 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 338
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 358
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 308
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 330
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 296
+Processing Time: 222 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 343
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 331
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 222 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 226 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 228 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 327
+Processing Time: 222 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 355
+Processing Time: 222 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 221 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 315
+Processing Time: 221 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 340
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 354
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 372
+Processing Time: 222 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 313
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 337
+Processing Time: 224 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 297
+Processing Time: 224 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 358
+Processing Time: 222 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 314
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 355
+Processing Time: 226 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 318
+Processing Time: 227 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 333
+Processing Time: 220 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 341
+Processing Time: 220 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 307
+Processing Time: 225 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 225 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 342
+Processing Time: 225 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 299
+Processing Time: 225 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 220 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 344
+Processing Time: 220 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 318
+Processing Time: 225 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 334
+Processing Time: 221 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 314
+Processing Time: 220 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 320
+Processing Time: 248 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 358
+Processing Time: 225 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 344
+Processing Time: 221 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 333
+Processing Time: 221 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 365
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 327
+Processing Time: 221 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 342
+Processing Time: 251 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 316
+Processing Time: 224 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 331
+Processing Time: 225 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 356
+Processing Time: 225 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 321
+Processing Time: 220 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 221 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 350
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 341
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 356
+Processing Time: 225 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 224 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 221 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 352
+Processing Time: 220 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 305
+Processing Time: 226 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 311
+Processing Time: 224 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 329
+Processing Time: 226 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 349
+Processing Time: 222 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 310
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 314
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 336
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 222 ms
+
+Thread: pool-2-thread-2
+Result: /images/KSC-logosmall.gif 309
+Processing Time: 224 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 312
+Processing Time: 222 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 358
+Processing Time: 219 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 347
+Processing Time: 219 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 310
+Processing Time: 224 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 355
+Processing Time: 224 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 330
+Processing Time: 221 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 312
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 317
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 338
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 334
+Processing Time: 225 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 309
+Processing Time: 225 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 302
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: обмеження 1
+Processing Time: 215 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 320 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 942
+Processing Time: 389 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 891
+Processing Time: 394 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 1364
+Processing Time: 429 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 1660
+Processing Time: 432 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 1380
+Processing Time: 259 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 1268
+Processing Time: 258 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 234 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 235 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 1645
+Processing Time: 268 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 1236
+Processing Time: 350 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 232 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 351
+Processing Time: 225 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 369
+Processing Time: 226 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 323
+Processing Time: 229 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 352
+Processing Time: 229 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 339
+Processing Time: 223 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 346
+Processing Time: 228 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 339
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 330
+Processing Time: 225 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 392
+Processing Time: 225 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 321
+Processing Time: 225 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 312
+Processing Time: 223 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 352
+Processing Time: 235 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 338
+Processing Time: 222 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 321
+Processing Time: 229 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 328
+Processing Time: 231 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 321
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 338
+Processing Time: 234 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 359
+Processing Time: 222 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 346
+Processing Time: 228 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 348
+Processing Time: 225 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 354
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 329
+Processing Time: 220 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 329
+Processing Time: 226 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 226 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 307
+Processing Time: 227 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 327
+Processing Time: 225 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 348
+Processing Time: 224 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 357
+Processing Time: 225 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 331
+Processing Time: 241 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 318
+Processing Time: 241 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 356
+Processing Time: 234 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 346
+Processing Time: 226 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 223 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 232 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 330
+Processing Time: 224 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 226 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 318
+Processing Time: 225 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 226 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 336
+Processing Time: 222 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 339
+Processing Time: 220 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 318
+Processing Time: 223 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 350
+Processing Time: 226 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 368
+Processing Time: 224 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 359
+Processing Time: 225 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 330
+Processing Time: 229 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 341
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 226 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 357
+Processing Time: 224 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 343
+Processing Time: 224 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 343
+Processing Time: 224 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 314
+Processing Time: 224 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 230 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 225 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 321
+Processing Time: 223 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 310
+Processing Time: 224 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 358
+Processing Time: 224 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 311
+Processing Time: 221 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 336
+Processing Time: 231 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 339
+Processing Time: 225 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 345
+Processing Time: 228 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 229 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 354
+Processing Time: 229 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 335
+Processing Time: 221 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 352
+Processing Time: 232 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 336
+Processing Time: 225 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 320
+Processing Time: 224 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 337
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 357
+Processing Time: 223 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 322
+Processing Time: 220 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 313
+Processing Time: 229 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 343
+Processing Time: 222 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 335
+Processing Time: 225 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 371
+Processing Time: 223 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 321
+Processing Time: 223 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 331
+Processing Time: 226 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 350
+Processing Time: 223 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 342
+Processing Time: 225 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 223 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 323
+Processing Time: 221 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 344
+Processing Time: 221 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 218 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 320
+Processing Time: 226 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 245 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 318
+Processing Time: 270 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 330
+Processing Time: 292 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 342
+Processing Time: 308 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 370
+Processing Time: 280 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 242 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 335
+Processing Time: 221 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 336
+Processing Time: 218 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 327
+Processing Time: 216 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 333
+Processing Time: 218 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 350
+Processing Time: 218 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 356
+Processing Time: 220 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 223 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 312
+Processing Time: 218 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 335
+Processing Time: 219 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 330
+Processing Time: 217 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 356
+Processing Time: 225 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 354
+Processing Time: 237 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 338
+Processing Time: 221 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 314
+Processing Time: 218 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 296
+Processing Time: 216 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 220 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 323
+Processing Time: 219 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 221 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 329
+Processing Time: 221 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 334
+Processing Time: 222 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 370
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 347
+Processing Time: 217 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 220 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 302
+Processing Time: 229 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 345
+Processing Time: 221 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 322
+Processing Time: 222 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 329
+Processing Time: 221 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 334
+Processing Time: 220 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 316
+Processing Time: 220 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 321
+Processing Time: 218 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 331
+Processing Time: 219 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 299
+Processing Time: 222 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 305
+Processing Time: 222 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 321
+Processing Time: 220 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 372
+Processing Time: 219 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 349
+Processing Time: 219 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 345
+Processing Time: 220 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 328
+Processing Time: 221 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 247 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 307
+Processing Time: 221 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 221 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 308
+Processing Time: 221 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 222 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 312
+Processing Time: 223 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 362
+Processing Time: 225 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 333
+Processing Time: 225 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 327
+Processing Time: 226 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 350
+Processing Time: 222 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 341
+Processing Time: 222 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 340
+Processing Time: 220 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 344
+Processing Time: 250 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 294
+Processing Time: 225 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 309
+Processing Time: 223 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 329
+Processing Time: 220 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 357
+Processing Time: 224 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 309
+Processing Time: 221 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 358
+Processing Time: 207 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 336
+Processing Time: 206 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 207 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 348
+Processing Time: 215 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 333
+Processing Time: 209 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 321
+Processing Time: 213 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 318
+Processing Time: 213 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 330
+Processing Time: 209 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 337
+Processing Time: 209 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 311
+Processing Time: 218 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 336
+Processing Time: 208 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 337
+Processing Time: 215 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 333
+Processing Time: 248 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 356
+Processing Time: 248 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 358
+Processing Time: 247 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 368
+Processing Time: 237 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 314
+Processing Time: 206 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 358
+Processing Time: 207 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 367
+Processing Time: 207 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 298
+Processing Time: 207 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 318
+Processing Time: 209 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 207 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 302
+Processing Time: 207 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 341
+Processing Time: 206 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 306
+Processing Time: 207 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 346
+Processing Time: 207 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 303
+Processing Time: 208 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 311
+Processing Time: 207 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 343
+Processing Time: 205 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 322
+Processing Time: 206 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 206 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 331
+Processing Time: 207 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 333
+Processing Time: 206 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 364
+Processing Time: 209 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 209 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 206 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 337
+Processing Time: 205 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 329
+Processing Time: 206 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 206 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 306
+Processing Time: 205 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 313
+Processing Time: 207 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 340
+Processing Time: 208 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 307
+Processing Time: 207 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 320
+Processing Time: 207 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 208 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 311
+Processing Time: 206 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 316
+Processing Time: 207 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 306
+Processing Time: 205 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 336
+Processing Time: 208 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 353
+Processing Time: 208 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 368
+Processing Time: 207 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 323
+Processing Time: 207 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 334
+Processing Time: 207 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 343
+Processing Time: 207 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 344
+Processing Time: 207 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 364
+Processing Time: 207 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 344
+Processing Time: 206 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 342
+Processing Time: 206 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 355
+Processing Time: 207 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 350
+Processing Time: 209 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 333
+Processing Time: 208 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 295
+Processing Time: 208 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 305
+Processing Time: 207 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 346
+Processing Time: 208 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 367
+Processing Time: 209 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 333
+Processing Time: 208 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 308
+Processing Time: 206 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 337
+Processing Time: 206 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 206 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 338
+Processing Time: 220 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 328
+Processing Time: 208 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 331
+Processing Time: 207 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 322
+Processing Time: 206 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 301
+Processing Time: 206 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 316
+Processing Time: 205 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 208 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 322
+Processing Time: 207 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 323
+Processing Time: 206 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 379
+Processing Time: 207 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 315
+Processing Time: 207 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 205 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 308
+Processing Time: 206 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 309
+Processing Time: 207 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 363
+Processing Time: 209 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 337
+Processing Time: 209 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 314
+Processing Time: 209 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 321
+Processing Time: 208 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 329
+Processing Time: 206 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 349
+Processing Time: 206 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 357
+Processing Time: 205 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 283
+Processing Time: 205 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 312
+Processing Time: 205 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 336
+Processing Time: 206 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 318
+Processing Time: 207 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 320
+Processing Time: 208 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 205 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 322
+Processing Time: 205 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 279
+Processing Time: 205 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 338
+Processing Time: 204 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 358
+Processing Time: 207 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 330
+Processing Time: 206 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 308
+Processing Time: 209 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 343
+Processing Time: 211 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 296
+Processing Time: 211 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 331
+Processing Time: 208 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 207 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 208 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 208 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 209 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 210 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 355
+Processing Time: 207 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 327
+Processing Time: 207 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 315
+Processing Time: 208 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 210 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 340
+Processing Time: 209 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 354
+Processing Time: 209 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 372
+Processing Time: 206 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 313
+Processing Time: 207 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 337
+Processing Time: 207 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 297
+Processing Time: 207 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 358
+Processing Time: 207 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 314
+Processing Time: 206 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 355
+Processing Time: 207 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 318
+Processing Time: 210 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 341
+Processing Time: 206 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 333
+Processing Time: 208 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 206 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 307
+Processing Time: 208 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 342
+Processing Time: 207 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 299
+Processing Time: 205 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 206 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 344
+Processing Time: 206 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 318
+Processing Time: 207 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 207 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 207 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 334
+Processing Time: 208 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 320
+Processing Time: 208 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 314
+Processing Time: 207 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 358
+Processing Time: 206 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 344
+Processing Time: 204 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 333
+Processing Time: 205 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 365
+Processing Time: 205 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 342
+Processing Time: 206 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 327
+Processing Time: 207 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 316
+Processing Time: 206 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 331
+Processing Time: 205 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 356
+Processing Time: 220 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 219 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 321
+Processing Time: 205 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 205 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 350
+Processing Time: 204 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 341
+Processing Time: 203 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 356
+Processing Time: 208 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 326
+Processing Time: 217 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 325
+Processing Time: 220 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 352
+Processing Time: 205 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 305
+Processing Time: 204 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 311
+Processing Time: 205 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 329
+Processing Time: 204 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 349
+Processing Time: 207 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 314
+Processing Time: 207 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 310
+Processing Time: 208 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 336
+Processing Time: 207 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 324
+Processing Time: 207 ms
+
+Thread: pool-2-thread-5
+Result: /images/KSC-logosmall.gif 309
+Processing Time: 207 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 312
+Processing Time: 206 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 358
+Processing Time: 208 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 347
+Processing Time: 206 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 310
+Processing Time: 206 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 355
+Processing Time: 206 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 330
+Processing Time: 207 ms
+
+Thread: pool-2-thread-1
+Result: /images/NASA-logosmall.gif 312
+Processing Time: 208 ms
+
+Thread: pool-2-thread-3
+Result: /images/NASA-logosmall.gif 317
+Processing Time: 207 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 338
+Processing Time: 207 ms
+
+Thread: pool-2-thread-6
+Result: /images/NASA-logosmall.gif 334
+Processing Time: 208 ms
+
+Thread: pool-2-thread-4
+Result: /images/NASA-logosmall.gif 309
+Processing Time: 206 ms
+
+Thread: pool-2-thread-5
+Result: /images/NASA-logosmall.gif 302
+Processing Time: 207 ms
+
+Thread: pool-2-thread-2
+Result: /images/NASA-logosmall.gif 332
+Processing Time: 218 ms
+
+Thread: pool-2-thread-1
+Result: обмеження 1
+Processing Time: 205 ms
+
+Thread: pool-2-thread-1
+Result: No data
+Processing Time: 221 ms
+

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Oleksander",
+    "SportType": "Running",
+    "age": 30,
+    "medals": [
+      "GOLD",
+      "SILVER",
+      "BRONZE"
+    ]
+  },
+  {
+    "name": "Dmytro",
+    "SportType": "Boxing",
+    "age": 25,
+    "medals": [
+      "GOLD",
+      "GOLD",
+      "GOLD"
+    ]
+  },
+  {
+    "name": "Oleg",
+    "SportType": "Swimming",
+    "age": 30,
+    "medals": [
+      "BRONZE"
+    ]
+  }
+]
