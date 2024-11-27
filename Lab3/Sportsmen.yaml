@@ -1,0 +1,24 @@
+- medals:
+  - !!org.example.MedalType 'GOLD'
+  - !!org.example.MedalType 'SILVER'
+  - !!org.example.MedalType 'BRONZE'
+  SportType: Running
+  name: Oleksander
+  age: 30
+- medals:
+  - !!org.example.MedalType 'GOLD'
+  - !!org.example.MedalType 'GOLD'
+  - !!org.example.MedalType 'GOLD'
+  SportType: Boxing
+  name: Dmytro
+  age: 25
+- medals:
+  - !!org.example.MedalType 'BRONZE'
+  SportType: Swimming
+  name: Oleg
+  age: 30
+- medals:
+  - !!org.example.MedalType 'BRONZE'
+  - !!org.example.MedalType 'BRONZE'
+  name: Olena
+  age: 35

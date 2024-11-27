@@ -1,0 +1,51 @@
+
+        System.out.println("Введіть кількість потоків: ");
+        Scanner scanner = new Scanner(System.in);
+        int threadsCount = scanner.nextInt();
+        ScheduledThreadPoolExecutor executor = new ScheduledThreadPoolExecutor(threadsCount);
+        System.out.println("Введіть обмеження для пулу потоків: ");
+        int poolSize = scanner.nextInt();
+        Semaphore semaphore = new Semaphore(poolSize);
+
+        File[] files = new File("C:\\Users\\HOME\\Desktop\\Третій курс\\CPP\\Lab4\\src\\files").listFiles();
+        if (files == null) {
+            System.out.println("Папка з файлами пуста або не існує.");
+            return;
+        }
+
+        CompletionService<String> completionService = new ExecutorCompletionService<>(executor);
+
+        AtomicInteger completedTasks = new AtomicInteger(0);
+        long startTime = System.currentTimeMillis();
+
+        for (File file : files) {
+            if (file.isFile()) {
+                semaphore.acquire();
+                completionService.submit(() -> {
+                    try {
+                        String result = new FileProcessor(file).call();
+                        //System.out.println(result);
+                        return result;
+                    } finally {
+                        semaphore.release();
+                    }
+                });
+            }
+        }
+
+        for (int i = 0; i < files.length; i++) {
+            try {
+                Future<String> future = completionService.take();
+                System.out.println("Отримано результат: " + future.get());
+                completedTasks.incrementAndGet();
+            } catch (ExecutionException e) {
+                System.err.println("Помилка виконання: " + e.getMessage());
+            }
+        }
+
+        long endTime = System.currentTimeMillis();
+        System.out.println("Загальний час виконання: " + (endTime - startTime) + " ms");
+
+        executor.shutdown();
+
+    }s
